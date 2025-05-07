@@ -1,0 +1,14 @@
+{
+  "data": [
+    {
+      "instruction": "What are the essential safety precautions when working with electrical circuits?",
+      "response": "Essential electrical safety precautions include:\n\n1. Personal Protection:\n- Use insulated tools\n- Wear appropriate PPE\n- Remove metallic jewelry\n- Use rubber-soled shoes\n\n2. Circuit Safety:\n- Always assume circuits are live\n- Use proper lockout/tagout procedures\n- Test circuits before touching\n- Use GFCIs where appropriate\n\n3. Workspace Safety:\n- Keep work area dry\n- Ensure proper lighting\n- Have emergency plans\n- Know location of power shutoffs\n\n4. Tool Safety:\n- Inspect tools before use\n- Use rated insulation\n- Maintain proper grounding\n- Use appropriate voltage ratings",
+      "category": "safety"
+    },
+    {
+      "instruction": "How does a MOSFET work and what are its applications?",
+      "response": "MOSFET (Metal-Oxide-Semiconductor Field-Effect Transistor) operation and applications:\n\n1. Basic Operation:\n- Voltage-controlled device\n- Three terminals: Gate, Source, Drain\n- Controls current flow with gate voltage\n- Enhanced by field effect\n\n2. Types:\n- N-channel (NMOS)\n- P-channel (PMOS)\n- Enhancement mode\n- Depletion mode\n\n3. Applications:\n- Power switching\n- Amplification\n- Digital logic\n- Motor control\n\n4. Advantages:\n- Fast switching\n- Low power consumption\n- High input impedance\n- Temperature stable",
+      "category": "components"
+    }
+  ]
+}

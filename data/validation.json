@@ -1,0 +1,19 @@
+{
+  "data": [
+    {
+      "instruction": "What is the purpose of a multimeter and how is it used?",
+      "response": "A multimeter is an essential electrical testing instrument with multiple functions:\n\n1. Main Functions:\n- Voltage measurement (AC/DC)\n- Current measurement (AC/DC)\n- Resistance measurement\n- Continuity testing\n\n2. Usage Guidelines:\n- Select appropriate function\n- Choose correct range\n- Connect leads properly\n- Observe polarity for DC\n\n3. Safety Precautions:\n- Check leads before use\n- Use appropriate settings\n- Keep hands away from probe tips\n- Avoid measuring high voltage if not qualified",
+      "category": "tools_and_measurement"
+    },
+    {
+      "instruction": "How do you calculate the total capacitance in series and parallel?",
+      "response": "Capacitor combinations have different formulas for series and parallel configurations:\n\n1. Parallel Capacitors:\n- Total capacitance = C1 + C2 + C3 + ...\n- Similar to resistors in series\n- Most common in power supplies\n\n2. Series Capacitors:\n- 1/Ctotal = 1/C1 + 1/C2 + 1/C3 + ...\n- Similar to resistors in parallel\n- Reduces total capacitance\n\n3. Applications:\n- Voltage dividers\n- Filter circuits\n- Timing circuits",
+      "category": "circuit_analysis"
+    },
+    {
+      "instruction": "What is the relationship between voltage, current, and magnetic field in electromagnets?",
+      "response": "The relationship follows electromagnetic principles:\n\n1. Basic Relations:\n- Current creates magnetic field (Ampère's Law)\n- Field strength proportional to current\n- Number of coil turns affects field strength\n\n2. Key Equations:\n- B = μ0nI (B: magnetic field, μ0: permeability, n: turns per length, I: current)\n- F = BIL (Force on conductor)\n\n3. Applications:\n- Motors\n- Generators\n- Transformers\n- Solenoids",
+      "category": "electromagnetics"
+    }
+  ]
+}
